@@ -1,4 +1,4 @@
-# Terraform---ec2
+# Terraform-ec2
 
 - Create a ec2 aws 
 
